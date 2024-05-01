@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loginBg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("./assets/nit_kkr_office.jpg");
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-position: center center;
+}
+
+.homeBg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("./assets/nit_kkr_office.jpg");
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-position: center center;
+}
